@@ -26,6 +26,25 @@ namespace _01_Types
             char letter = 'R';
             char reTurn = '\n';
 
+            //  Operators
+            int numOne = 17;
+            int numTwo = 2;
+
+            int sum = numOne + numTwo;
+            Console.WriteLine(sum);
+            int diff = numOne - numTwo;
+            Console.WriteLine(diff);
+            int prod = numOne * numTwo;
+            Console.WriteLine(prod);
+            int quot = numOne / numTwo; // 17 / 5 = 2
+            Console.WriteLine(quot);
+            int remainder = numOne % numTwo; // 17 % 5 = 2
+            Console.WriteLine(remainder);
+
+            Console.WriteLine("Hello");
+
+
+
         }
     }
 }
