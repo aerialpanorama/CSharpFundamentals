@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.csproj.CoreCompileInputs.cache
